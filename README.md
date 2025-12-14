@@ -1,4 +1,4 @@
-# Week 12: MongoDB Basics & Use Case
+# MongoDB Basics & Use Case
 
 This repository contains the practical tasks for **Week 12**, focusing on learning MongoDB fundamentals and applying them to a real-world scenario.
 
